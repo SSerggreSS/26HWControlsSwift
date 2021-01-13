@@ -13,6 +13,7 @@ enum AnimationType: Int {
     case translation = 1
     case rontation
     case scale
+    case none
     
     
 }
